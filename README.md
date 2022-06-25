@@ -9,5 +9,6 @@ The lottery is managed by a manager externally. Manager interacts with the smart
 - A very large number is created using blocks-timestamp and difficulty 
 - This number will be divided by number of players 
 - Remainder will be the index of the array of players registered sequencially.
+- Winner is declared and is transfered the total balance of the lottery smart contract.
  
 WINNER IS DECLARED!!!
